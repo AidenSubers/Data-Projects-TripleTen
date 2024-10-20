@@ -19,10 +19,10 @@ Welcome to my repository, where I showcase a series of data projects completed d
 ### 5. [Sprint 5 Project: Analysis of Returned Orders](https://public.tableau.com/views/Sprint5-Project-AidenSubers/Presentation?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Assessed the causes of high return rates at a superstore. Used Tableau for storytelling with data, developing dashboards and a presentation to convey insights effectively.
 
-### 6. [Sprint 6 Project: Shopify App Data Review](link-to-your-sprint6-project)
+### 6. [Sprint 6 Project: Shopify App Data Review](Sprint6Project-AidenSubers_1728399987.zip)
 - Reviewed and analyzed data from a Shopify app using Power BI, focusing on key metrics and performance indicators to guide business decisions.
 
-### 7. [Sprint 7 Project: Customer Segmentation Analysis for Zomato](link-to-your-sprint7-project)
+### 7. [Sprint 7 Project: Customer Segmentation Analysis for Zomato](https://public.tableau.com/views/TripleTen-FinalProject-ZomatoCustomerAnalysis/ZomatoCustomerAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Conducted a detailed customer segmentation analysis for a fictional food delivery service, Zomato, using Tableau. Created 16 visualizations to depict customer behavior and preferences.
 
 ## Skills Developed
