@@ -10,10 +10,10 @@ Welcome to my repository, where I showcase a series of data projects completed d
 ### 2. [Sprint 2 Project: SQL Analysis for Zuber Ride-Sharing](Sprint-2-Project-SQL)
 - Analyzed a database for Zuber, a new ride-sharing company, to uncover patterns in passenger preferences and assess the impact of weather on ride frequency, providing actionable insights for operational strategy.
 
-### 3. [Sprint 3 Project: Business Analytics on E-commerce Data](https://docs.google.com/spreadsheets/d/1-ZK2q5vcc-JhQiw2JDsw8x4uVwynU9ZPsWONekCAutQ/edit?usp=sharing)
+### 3. [Sprint 3 Project: Business Analytics on E-Commerce Data](https://docs.google.com/spreadsheets/d/1-ZK2q5vcc-JhQiw2JDsw8x4uVwynU9ZPsWONekCAutQ/edit?usp=sharing)
 - Conducted a comprehensive analysis of e-commerce data using Google Sheets. Built a conversion funnel, performed cohort analysis, and calculated retention rates to optimize marketing strategies.
 
-### 4. [Sprint 4 Project: Data Visualization for Superstore Profitability](link-to-your-sprint4-project)
+### 4. [Sprint 4 Project: Data Visualization for Superstore Profitability](https://public.tableau.com/views/Sprint4-Project-AidenSubers/Sprint4-Project?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - Created interactive dashboards in Tableau to visualize and optimize profitability for a superstore, analyzing profits, losses, advertising impact, and abnormal return rates.
 
 ### 5. [Sprint 5 Project: Analysis of Returned Orders](link-to-your-sprint5-project)
