@@ -2,6 +2,8 @@
 
 Welcome to my repository, where I showcase a series of data projects completed during my four-month bootcamp with TripleTen. Each project highlights my skills in data analysis, visualization, and storytelling, using a variety of tools including Google Sheets, Tableau, and Power BI.
 
+Click on each project title's hyperlink to view them.
+
 ## Projects Overview
 
 ### 1. [Sprint 1 Project: Advanced Spreadsheets with NYC Airbnb Data](https://docs.google.com/spreadsheets/d/1RW7gv8VnuC4BtNW5zykD02s2AfKaViL2aPCguBPNVIc/edit?usp=sharing)
