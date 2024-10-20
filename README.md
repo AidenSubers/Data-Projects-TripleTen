@@ -4,7 +4,7 @@ Welcome to my repository, where I showcase a series of data projects completed d
 
 ## Projects Overview
 
-### 1. [Sprint 1 Project: Advanced Spreadsheets with NYC Airbnb Data](link-to-your-sprint1-project)
+### 1. [Sprint 1 Project: Advanced Spreadsheets with NYC Airbnb Data](https://docs.google.com/spreadsheets/d/1RW7gv8VnuC4BtNW5zykD02s2AfKaViL2aPCguBPNVIc/edit?usp=sharing)
 - Utilized Google Sheets to analyze and manipulate Airbnb data from New York City, demonstrating advanced spreadsheet techniques to extract meaningful insights.
 
 ### 2. [Sprint 2 Project: SQL Analysis for Zuber Ride-Sharing](link-to-your-sprint2-project)
